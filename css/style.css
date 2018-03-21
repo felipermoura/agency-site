@@ -1,4 +1,19 @@
-.teste {
-  color: blue; }
+/*    WEB SERVICES   */
+section.webservices {
+  background-color: #252b31;
+  padding-top: 80px;
+  padding-bottom: 80px; }
+  section.webservices h2 {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 55px;
+    margin-top: 0px; }
+  section.webservices .webservice-item {
+    background-color: white;
+    padding-top: 45px;
+    padding-bottom: 25px;
+    padding-left: 22px;
+    padding-right: 22px;
+    border-radius: 7px; }
 
 /*# sourceMappingURL=style.css.map */
