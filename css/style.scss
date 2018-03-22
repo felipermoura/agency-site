@@ -4,6 +4,8 @@ body {
 
 
 
+
+
 /*    WEB SERVICES   */
 section.webservices {
 	background-color: #252b31;
@@ -43,6 +45,18 @@ section.webservices {
 			margin-bottom: 27px;
 		}
 	}
+}
 
 
+
+
+/*    MKT DIGITAL    */
+section.mkt-digital {
+	padding-top: 80px;
+	padding-bottom: 80px;
+
+	div.mkt-digital-padding {
+		padding-left: 10%;
+		padding-right: 10%;
+	}
 }

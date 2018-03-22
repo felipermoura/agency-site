@@ -31,4 +31,12 @@ section.webservices {
     section.webservices .webservice-item img.sis {
       margin-bottom: 27px; }
 
+/*    MKT DIGITAL    */
+section.mkt-digital {
+  padding-top: 80px;
+  padding-bottom: 80px; }
+  section.mkt-digital div.mkt-digital-padding {
+    padding-left: 10%;
+    padding-right: 10%; }
+
 /*# sourceMappingURL=style.css.map */
