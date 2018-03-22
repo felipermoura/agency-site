@@ -1,3 +1,6 @@
+body {
+  font-family: 'Ubuntu', sans-serif; }
+
 /*    WEB SERVICES   */
 section.webservices {
   background-color: #252b31;
@@ -11,9 +14,21 @@ section.webservices {
   section.webservices .webservice-item {
     background-color: white;
     padding-top: 45px;
-    padding-bottom: 25px;
-    padding-left: 22px;
-    padding-right: 22px;
-    border-radius: 7px; }
+    width: 100%;
+    text-align: center;
+    padding-bottom: 45px;
+    padding-left: 13%;
+    padding-right: 13%;
+    border-radius: 7px;
+    min-height: 100px;
+    display: block; }
+    section.webservices .webservice-item .btn-webservices {
+      margin: 0 auto;
+      height: auto;
+      background-color: #077be6; }
+      section.webservices .webservice-item .btn-webservices i {
+        color: #fff; }
+    section.webservices .webservice-item img.sis {
+      margin-bottom: 27px; }
 
 /*# sourceMappingURL=style.css.map */
